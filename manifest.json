@@ -1,7 +1,7 @@
 {
   "name": "My GitHub PWA",
   "short_name": "MyPWA",
-  "start_url": "/SMF-FJ/",
+  "start_url": "/SMF-food-journal/",
   "display": "standalone",
   "background_color": "#ffffff",
   "theme_color": "#317EFB",
